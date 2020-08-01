@@ -1,2 +1,2 @@
 # Python-Basics
-A recopilation of insightful steps to start programming in Python
+A compilation of insightful steps to start programming in Python
